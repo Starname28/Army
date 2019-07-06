@@ -1,0 +1,11 @@
+﻿  Army.cpp
+f:\cod\army\army\army.cpp(270): warning C4018: <: несоответствие типов со знаком и без знака
+f:\cod\army\army\army.cpp(271): warning C4018: <: несоответствие типов со знаком и без знака
+f:\cod\army\army\army.cpp(272): warning C4018: <: несоответствие типов со знаком и без знака
+f:\cod\army\army\army.cpp(273): warning C4018: <: несоответствие типов со знаком и без знака
+f:\cod\army\army\army.cpp(279): warning C4018: <: несоответствие типов со знаком и без знака
+f:\cod\army\army\army.cpp(280): warning C4018: <: несоответствие типов со знаком и без знака
+f:\cod\army\army\army.cpp(281): warning C4018: <: несоответствие типов со знаком и без знака
+f:\cod\army\army\army.cpp(282): warning C4018: <: несоответствие типов со знаком и без знака
+  Army.vcxproj -> F:\Cod\Army\Debug\Army.exe
+  Army.vcxproj -> F:\Cod\Army\Debug\Army.pdb (Full PDB)
